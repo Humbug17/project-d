@@ -1,1 +1,3 @@
-number = input ('pick a number')
+number = input ('pick a number ')
+if number % 2 == 0: print ('even')
+else: print ('odd')
